@@ -30,6 +30,15 @@
     <ClCompile Include="climbStairs.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Best_Time_to_Buy_and_Sell_Stock.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Best_Time_to_Buy_and_Sell_Stock_1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="rob.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="longestPalindrome.h">
@@ -42,6 +51,15 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="climbStairs.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Best_Time_to_Buy_and_Sell_Stock.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Best_Time_to_Buy_and_Sell_Stock_1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="rob.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
